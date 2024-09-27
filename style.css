@@ -50,11 +50,7 @@ header {
     align-items: center;
 }
 
-.cart-icon svg {
-    width: 43px;
-    height: 44px;   
-    fill: white;    
-}
+
 
 .drone-text {
     position: absolute;
